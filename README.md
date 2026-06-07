@@ -15,4 +15,4 @@ npm start
 
 ## License
 MIT
-<!-- updated: 2026-06-06 -->
+<!-- updated: 2026-06-07 -->
